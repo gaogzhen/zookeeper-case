@@ -1,4 +1,4 @@
-package com.gaogzhen.zk;
+package com.gaogzhen.zk.client;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
